@@ -1,0 +1,19 @@
+# Hito 1 - Análisis inicial
+
+## 1. Nombre del sistema
+
+## 2. Tipo de comercio
+
+## 3. Problema
+
+## 4. Objetivo general
+
+## 5. Objetivos específicos
+
+## 6. Propuesta de valor
+
+## 7. Stakeholders
+
+## 8. Requerimientos funcionales
+
+## 9. Requerimientos no funcionales
