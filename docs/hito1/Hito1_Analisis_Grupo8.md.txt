@@ -1,10 +1,17 @@
 # Hito 1 - Análisis inicial
 
 ## 1. Nombre del sistema
+Sistema de Gestión de Inventario para Tienda
 
 ## 2. Tipo de comercio
+Comercio minorista orientado a la venta de productos, como ropa, accesorios u otros artículos, con control de inventario interno.
 
 ## 3. Problema
+Actualmente, la tienda presenta deficiencias en el control y precisión del inventario, lo que genera inconsistencias en la cantidad real de productos disponibles. Esto provoca situaciones como sobrestock en algunos artículos y falta de disponibilidad en otros, afectando directamente las ventas.
+
+El manejo manual del inventario ocasiona errores en el registro de entradas y salidas de mercancía, así como pérdida de tiempo en la verificación de existencias. Además, existen dificultades en el control de las facturas de proveedores, tanto pagadas como pendientes, lo que complica la gestión financiera.
+
+Estos problemas afectan la eficiencia operativa del negocio y la toma de decisiones, evidenciando la necesidad de un sistema automatizado que permita un control más preciso, organizado y confiable del inventario.
 
 ## 4. Objetivo general
 
