@@ -65,3 +65,25 @@ El sistema aportará valor al negocio al reducir errores en el manejo del invent
 | RNF-006 | Respaldo | Debe poder hacer copia de seguridad de la base de datos. | Se genera un backup y se puede restaurar. |
 | RNF-007 | Compatibilidad | Debe correr en Windows, por lo menos en Windows 10 y 11. | Se instala y funciona sin problemas en una PC estándar. |
 | RNF-008 | Mantenibilidad | El sistema debe estar organizado para poder agregar mejoras luego. | El código se maneja por capas y se puede modificar sin dañar todo. |
+
+## 10. Matriz de trazabilidad (Requerimientos vs Casos de Uso)
+| Requerimiento | Caso de Uso | Nombre del Caso de Uso |
+|--------------|-------------|------------------------|
+| RF-001 | CDU-005 | Registrar producto |
+| RF-002 | CDU-006 | Editar producto |
+| RF-003 | CDU-007 | Registrar entrada de mercancía |
+| RF-004 | CDU-004 | Registrar venta |
+| RF-005 | CDU-003 | Buscar producto |
+| RF-006 | CDU-002 | Consultar stock disponible |
+| RF-007 | CDU-013 | Generar reportes |
+| RF-008 | CDU-013 | Generar reportes |
+| RF-009 | CDU-010 | Registrar orden de compra |
+| RF-010 | CDU-009 | Consultar órdenes de compra |
+| RF-011 | CDU-011 | Registrar factura de proveedor |
+| RF-012 | CDU-012 | Actualizar estado de factura |
+| RF-013 | CDU-008 | Consultar historial de movimientos |
+| RF-014 | CDU-013 | Generar reportes |
+| RF-015 | CDU-001 | Iniciar sesión |
+ 
+
+
