@@ -27,7 +27,14 @@ Desarrollar un sistema de gestión de inventario para tienda que permita control
 El sistema aportará valor al negocio al reducir errores en el manejo del inventario, mejorar la rapidez en las consultas de disponibilidad, facilitar el control de compras y facturas, y ofrecer información más clara para la toma de decisiones. Con esto se busca mejorar la organización interna, disminuir pérdidas por descontrol de stock y hacer más eficiente la operación diaria de la tienda.
 
 ## 7. Stakeholders
-
+| Stakeholder          | Rol                                | Necesidad |
+|----------------------|-------------------------------------|-----------|
+| Vendedor             | Atender clientes y registrar ventas | Consultar disponibilidad de productos y registrar ventas de forma efectiva. |
+| Encargado de almacén | Registrar entrada de productos y controlar existencias | Mantener actualizado el inventario y saber cuándo es necesario realizar pedidos. |
+| Encargado de compras | Generar y gestionar órdenes de compra | Controlar pedidos y facturas de proveedores. |
+| Gerente              | Supervisar el funcionamiento de la tienda | Obtener reportes de inventario y apoyar la toma de decisiones. |
+| Proveedores          | Suministrar productos a la tienda | Recibir pedidos con detalles claros de cantidad, talla, color y fecha de entrega. |
+| Clientes             | Comprar productos | Encontrar disponibilidad del producto que necesitan y recibir buen servicio. |
 ## 8. Requerimientos funcionales
 
 ## 9. Requerimientos no funcionales
