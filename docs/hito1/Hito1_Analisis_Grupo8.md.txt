@@ -36,5 +36,32 @@ El sistema aportará valor al negocio al reducir errores en el manejo del invent
 | Proveedores          | Suministrar productos a la tienda | Recibir pedidos con detalles claros de cantidad, talla, color y fecha de entrega. |
 | Clientes             | Comprar productos | Encontrar disponibilidad del producto que necesitan y recibir buen servicio. |
 ## 8. Requerimientos funcionales
+| ID | Descripción | Prioridad | Fuente | Cómo se comprobará |
+|----|-------------|-----------|--------|--------------------|
+| RF-001 | La aplicación debe permitir registrar productos nuevos y las categorías. | Alta | Encargado de almacén | Se guarda el producto y aparece en el listado. |
+| RF-002 | La aplicación debe permitir editar los datos de un producto si hubo un error. | Media | Encargado de almacén | Se cambia el dato y al volver a entrar queda actualizado. |
+| RF-003 | La aplicación debe permitir dar entrada de mercancía cuando llega un pedido. | Alta | Encargado de almacén | La cantidad sube y queda registrada la entrada. |
+| RF-004 | La aplicación debe permitir registrar ventas y descontar automáticamente del inventario. | Alta | Vendedor | Se registra la venta y baja el stock del producto. |
+| RF-005 | La aplicación debe permitir buscar productos por nombre, código o proveedor. | Alta | Vendedor | Al escribir, aparecen resultados sin tener que buscar manual. |
+| RF-006 | La aplicación debe mostrar en pantalla la cantidad disponible de cada producto. | Alta | Vendedor | Se ve el stock actualizado al momento. |
+| RF-007 | La aplicación debe avisar cuando un producto está en stock bajo. | Alta | Gerente | Sale una alerta o lista de productos por reponer. |
+| RF-008 | La aplicación debe permitir configurar un mínimo de stock por producto. | Media | Gerente | Se define un mínimo y se usa para las alertas. |
+| RF-009 | La aplicación debe permitir crear órdenes de compra cuando falte mercancía. | Alta | Encargado de compras | Se genera la orden con productos y cantidades. |
+| RF-010 | La aplicación debe guardar las órdenes de compra para consultarlas después. | Media | Encargado de compras | Se puede abrir una orden vieja y verla completa. |
+| RF-011 | La aplicación debe registrar facturas de proveedores, monto, fecha y proveedor. | Alta | Encargado de compras | Se guarda la factura y queda en el listado. |
+| RF-012 | La aplicación debe permitir marcar facturas como pagadas o pendientes. | Alta | Gerente | Se cambia el estado y se refleja en la lista. |
+| RF-013 | La aplicación debe permitir ver un historial de movimientos de entradas, ventas y ajustes. | Alta | Gerente | Se ve la lista por fecha y quién lo hizo. |
+| RF-014 | La aplicación debe generar reportes básicos de inventario actual, productos bajos y ventas. | Media | Gerente | Se genera un reporte y se puede imprimir o exportar. |
+| RF-015 | La aplicación debe manejar usuarios con roles como vendedor, almacén, compras y gerente. | Alta | Gerente | Cada usuario entra con su cuenta y ve solo lo que le corresponde. |
 
 ## 9. Requerimientos no funcionales
+| ID | Categoría | Descripción | Cómo se medirá |
+|----|-----------|-------------|----------------|
+| RNF-001 | Usabilidad | La aplicación debe ser fácil de usar, con botones y pantallas claras. | El usuario puede hacer tareas básicas sin estar preguntando todo el tiempo. |
+| RNF-002 | Rendimiento | Las búsquedas y listados deben cargar rápido. | La consulta responde en menos de 4 segundos con datos normales. |
+| RNF-003 | Seguridad | La aplicación debe pedir usuario y contraseña para entrar. | No permite entrar si no se inicia sesión correctamente. |
+| RNF-004 | Seguridad | Cada rol debe tener permisos diferentes. | Si un vendedor intenta entrar a Compras, no lo deja. |
+| RNF-005 | Confiabilidad | No debe cerrarse sola ni dar errores frecuentes. | Pruebas de uso diario sin cierres inesperados. |
+| RNF-006 | Respaldo | Debe poder hacer copia de seguridad de la base de datos. | Se genera un backup y se puede restaurar. |
+| RNF-007 | Compatibilidad | Debe correr en Windows, por lo menos en Windows 10 y 11. | Se instala y funciona sin problemas en una PC estándar. |
+| RNF-008 | Mantenibilidad | El sistema debe estar organizado para poder agregar mejoras luego. | El código se maneja por capas y se puede modificar sin dañar todo. |
