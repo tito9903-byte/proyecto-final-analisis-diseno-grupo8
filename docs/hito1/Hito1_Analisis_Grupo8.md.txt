@@ -14,10 +14,17 @@ El manejo manual del inventario ocasiona errores en el registro de entradas y sa
 Estos problemas afectan la eficiencia operativa del negocio y la toma de decisiones, evidenciando la necesidad de un sistema automatizado que permita un control más preciso, organizado y confiable del inventario.
 
 ## 4. Objetivo general
+Desarrollar un sistema de gestión de inventario para tienda que permita controlar de forma organizada las entradas y salidas de productos, registrar ventas, gestionar compras a proveedores y facilitar la generación de reportes para apoyar la toma de decisiones.
 
 ## 5. Objetivos específicos
+- Registrar y actualizar la información de los productos dentro del inventario.
+- Controlar las entradas y salidas de mercancía de forma más precisa.
+- Permitir el registro de ventas con actualización automática del stock.
+- Gestionar órdenes de compra y facturas de proveedores.
+- Generar reportes que ayuden al gerente a supervisar el estado del inventario y las operaciones del negocio.
 
 ## 6. Propuesta de valor
+El sistema aportará valor al negocio al reducir errores en el manejo del inventario, mejorar la rapidez en las consultas de disponibilidad, facilitar el control de compras y facturas, y ofrecer información más clara para la toma de decisiones. Con esto se busca mejorar la organización interna, disminuir pérdidas por descontrol de stock y hacer más eficiente la operación diaria de la tienda.
 
 ## 7. Stakeholders
 
