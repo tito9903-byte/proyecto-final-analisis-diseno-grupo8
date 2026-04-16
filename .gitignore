@@ -1,0 +1,113 @@
+# IMPORTANTE: ARCHIVOS DEL PROYECTO PERMITIDOS
+# Todos los archivos PDF para entregables
+# Todos los archivos .drawio, .xml para diagramas
+# Todos los archivos .zip, .rar, .tar.gz para archivos del proyecto
+# Todos los archivos .mwb para modelos de base de datos
+# Todos los archivos .pptx, .docx, .xlsx para documentación
+# Todos los archivos en las carpetas docs/, diagramas/, prototipo/
+# Todos los archivos .docx para el documento del proyecto
+# Todos los archivos .pptx para las presentaciones del proyecto
+
+
+# Archivos del Sistema Operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archivos de IDE y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+
+# Archivos Temporales
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Binarios compilados y ejecutables
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Archivos comprimidos - Permitir archivos del proyecto, solo bloquear innecesarios
+*.7z
+
+# Node.js (si hay componentes web)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (si hay scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Java (si hay componentes)
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+
+# Archivos de base de datos - Permitir bases de datos del proyecto
+*.sqlite3
+
+# Archivos de configuración con datos sensibles
+config.local.*
+*.env
+*.env.local
+*.env.production
+
+# Salidas de compilación
+build/
+dist/
+out/
+
+# Directorios de caché
+.cache/
+.parcel-cache/
+
+# Reportes de cobertura de pruebas
+coverage/
+*.lcov
+
+# Construcción de documentación
+docs/_build/
+site/
+
+# Específico de prototipo - Permitir todos los archivos de prototipo
+prototipo/capturas/*.tmp
+prototipo/temp/
+prototipo/backups/
+
+# Software de diagramas - Permitir todos los archivos de diagramas del proyecto
+*.vsd*
+
+# Metadatos de control de versiones (excepto git)
+.svn/
+.hg/
+CVS/
