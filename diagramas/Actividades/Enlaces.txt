@@ -1,0 +1,7 @@
+Enlaces de Diagramas de Actividades
+
+Iniciar Sesión (CDU-001): https://lucid.app/lucidchart/aff5a171-a5e8-4928-a9bf-95cf74138001/edit?invitationId=inv_26b943e2-f3ae-484a-a2db-eb05d6080de1
+Registrar Venta (CDU-004): https://lucid.app/lucidchart/651cd54a-4ce6-48f8-8748-ff03baa22e56/edit?invitationId=inv_dff9a10c-53dd-4165-af5a-8b440a371906
+Gestión de Inventario (CDU-005, CDU-006, CDU-007): https://lucid.app/lucidchart/24de3950-6964-4f85-a6b5-663d3203079f/edit?invitationId=inv_da1b46fc-6033-4b8c-918c-0e197c83df36
+Órdenes de Compra (CDU-010): https://lucid.app/lucidchart/41f5aa83-fce5-4fdc-a146-0f24672b9921/edit?invitationId=inv_b3857ec5-7d01-4ca5-9111-8248b82b30d9
+Generación de Reportes (CDU-013): https://lucid.app/lucidchart/982f4e96-7728-4dec-a7e2-52a0af1d8a6b/edit?invitationId=inv_bcbde955-1636-4161-8b82-474ba61764eb
