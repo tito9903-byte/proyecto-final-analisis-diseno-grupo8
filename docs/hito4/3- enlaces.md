@@ -40,9 +40,9 @@
 
 **Enlace:**https://lucid.app/lucidspark/35fe64a6-de4a-414d-9924-6487d05dcff7/edit?invitationId=inv\_4ac11edd-089b-40bc-bfab-68eea68f33dc\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/4e323249-439b-4b45-9ea3-e77adcd44c84/edit?invitationId=inv\_d82678db-2878-4462-81c0-9b9a74227a29\&page=0\_0#
+**Registrar Productos:**https://lucid.app/lucidspark/4e323249-439b-4b45-9ea3-e77adcd44c84/edit?invitationId=inv\_d82678db-2878-4462-81c0-9b9a74227a29\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/fd494cb4-839d-4ae5-a112-507deb43dfff/edit?invitationId=inv\_532c8b30-5c55-4811-b2fd-c2e15cd38b51\&page=0\_0#
+**Editar Producto:**https://lucid.app/lucidspark/fd494cb4-839d-4ae5-a112-507deb43dfff/edit?invitationId=inv\_532c8b30-5c55-4811-b2fd-c2e15cd38b51\&page=0\_0#
 
 **Entrada de mercancia:**https://lucid.app/lucidspark/995d134d-d9d2-4c73-af12-d89618ade223/edit?invitationId=inv\_4ce4fe85-7cb6-46d4-bcde-5c4ca2aaa0dc\&page=0\_0#
 
