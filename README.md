@@ -140,7 +140,6 @@ proyecto-final-analisis-diseno-grupo8/
 
 ### Hito 4: Entrega Final y Presentación (15 pts) - En Progreso
 - [ ] Documento técnico completo (25-30 páginas)
-- [ ] Todos los diagramas finales
 - [ ] Prototipo final interactivo
 - [ ] Presentación oral (15 minutos)
 
