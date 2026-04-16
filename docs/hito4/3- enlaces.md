@@ -28,17 +28,17 @@
 
 **Registrar factura del proveedor:**https://lucid.app/lucidspark/facb1473-febf-40e6-be4c-c50f94f4675f/edit?invitationId=inv\_1af62f36-3625-42ae-b2ca-e2ef0ba38028\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/9b4b08a2-6628-44ec-b952-62e4bd89ed7c/edit?invitationId=inv\_8cc36fe3-46e9-4e73-9e0c-3f589443935e\&page=0\_0#
+**Gestion de facturas:**https://lucid.app/lucidspark/9b4b08a2-6628-44ec-b952-62e4bd89ed7c/edit?invitationId=inv\_8cc36fe3-46e9-4e73-9e0c-3f589443935e\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/93aae0df-63af-4321-bbac-a3646a3ae915/edit?invitationId=inv\_73dc523a-e732-46fb-9291-6ff8dfc898b5\&page=0\_0#
+**Generar reportes:**https://lucid.app/lucidspark/93aae0df-63af-4321-bbac-a3646a3ae915/edit?invitationId=inv\_73dc523a-e732-46fb-9291-6ff8dfc898b5\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/57efc56f-7ad8-41e6-ad0c-99529601dfae/edit?invitationId=inv\_7535f0f2-cc2f-48ee-8c58-28cc40286ca1\&page=0\_0#
+**Iniciar sesion:**https://lucid.app/lucidspark/57efc56f-7ad8-41e6-ad0c-99529601dfae/edit?invitationId=inv\_7535f0f2-cc2f-48ee-8c58-28cc40286ca1\&page=0\_0#
 
 **Enlace:**https://lucid.app/lucidspark/fbabe3fe-69fe-4dde-b1a5-fc6c26cfdd8a/edit?invitationId=inv\_d082e411-15cc-469e-b1c6-8b9385bdf8ef\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/18e92791-956d-407d-bbba-d0334176414a/edit?invitationId=inv\_eca89305-f02b-4035-b09f-5478057b1e21\&page=0\_0#
+**Buscar productos:**https://lucid.app/lucidspark/18e92791-956d-407d-bbba-d0334176414a/edit?invitationId=inv\_eca89305-f02b-4035-b09f-5478057b1e21\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/35fe64a6-de4a-414d-9924-6487d05dcff7/edit?invitationId=inv\_4ac11edd-089b-40bc-bfab-68eea68f33dc\&page=0\_0#
+**Registrar ventas:**https://lucid.app/lucidspark/35fe64a6-de4a-414d-9924-6487d05dcff7/edit?invitationId=inv\_4ac11edd-089b-40bc-bfab-68eea68f33dc\&page=0\_0#
 
 **Registrar Productos:**https://lucid.app/lucidspark/4e323249-439b-4b45-9ea3-e77adcd44c84/edit?invitationId=inv\_d82678db-2878-4462-81c0-9b9a74227a29\&page=0\_0#
 
