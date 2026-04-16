@@ -22,11 +22,11 @@
 
 **Enlace consulta de historial de movimiento:**https://lucid.app/lucidspark/202a5836-acf8-4c86-b177-12e0ae2367b7/edit?invitationId=inv\_1014202d-cfe4-4347-9548-58c0382459f7\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/31110b5d-e652-4d79-9aec-d05dc92721f2/edit?invitationId=inv\_82666679-58f4-4abb-a74d-72b6a3411b80\&page=0\_0#
+**Consultar ordenes de compra:**https://lucid.app/lucidspark/31110b5d-e652-4d79-9aec-d05dc92721f2/edit?invitationId=inv\_82666679-58f4-4abb-a74d-72b6a3411b80\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/249271f2-9468-43df-a3c4-54a103159ce1/edit?invitationId=inv\_a7606316-025a-4cda-848d-2c807eb558db\&page=0\_0#
+**Registrar Orden de Compra:**https://lucid.app/lucidspark/249271f2-9468-43df-a3c4-54a103159ce1/edit?invitationId=inv\_a7606316-025a-4cda-848d-2c807eb558db\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/facb1473-febf-40e6-be4c-c50f94f4675f/edit?invitationId=inv\_1af62f36-3625-42ae-b2ca-e2ef0ba38028\&page=0\_0#
+**Registrar factura del proveedor:**https://lucid.app/lucidspark/facb1473-febf-40e6-be4c-c50f94f4675f/edit?invitationId=inv\_1af62f36-3625-42ae-b2ca-e2ef0ba38028\&page=0\_0#
 
 **Enlace:**https://lucid.app/lucidspark/9b4b08a2-6628-44ec-b952-62e4bd89ed7c/edit?invitationId=inv\_8cc36fe3-46e9-4e73-9e0c-3f589443935e\&page=0\_0#
 
@@ -44,11 +44,11 @@
 
 **Enlace:**https://lucid.app/lucidspark/fd494cb4-839d-4ae5-a112-507deb43dfff/edit?invitationId=inv\_532c8b30-5c55-4811-b2fd-c2e15cd38b51\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/995d134d-d9d2-4c73-af12-d89618ade223/edit?invitationId=inv\_4ce4fe85-7cb6-46d4-bcde-5c4ca2aaa0dc\&page=0\_0#
+**Entrada de mercancia:**https://lucid.app/lucidspark/995d134d-d9d2-4c73-af12-d89618ade223/edit?invitationId=inv\_4ce4fe85-7cb6-46d4-bcde-5c4ca2aaa0dc\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/202a5836-acf8-4c86-b177-12e0ae2367b7/edit?invitationId=inv\_1014202d-cfe4-4347-9548-58c0382459f7\&page=0\_0#
+**Consultar de historial de movimiento:**https://lucid.app/lucidspark/202a5836-acf8-4c86-b177-12e0ae2367b7/edit?invitationId=inv\_1014202d-cfe4-4347-9548-58c0382459f7\&page=0\_0#
 
-**Enlace:**https://lucid.app/lucidspark/31110b5d-e652-4d79-9aec-d05dc92721f2/edit?invitationId=inv\_82666679-58f4-4abb-a74d-72b6a3411b80\&page=0\_0#
+**Consultar ordenes de compra:**https://lucid.app/lucidspark/31110b5d-e652-4d79-9aec-d05dc92721f2/edit?invitationId=inv\_82666679-58f4-4abb-a74d-72b6a3411b80\&page=0\_0#
 
 **Registrar Orden de Compra:**https://lucid.app/lucidspark/249271f2-9468-43df-a3c4-54a103159ce1/edit?invitationId=inv\_a7606316-025a-4cda-848d-2c807eb558db\&page=0\_0#
 
