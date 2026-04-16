@@ -1,0 +1,5 @@
+Enlaces de diagramas de estructuras
+
+Diagrama de clases: https://lucid.app/lucidchart/a96406a7-904c-4823-901e-e11a7f7cb00f/edit?invitationId=inv_86c01b3c-ce14-4ad9-bb00-2844d3e57e2a&page=0_0#
+Diagrama de componentes: https://lucid.app/lucidchart/5b08c9ac-372c-407f-9ab6-215215b5407f/edit?invitationId=inv_71b271a1-44ab-4d69-98c4-a9de0e8d0657&page=0_0#
+Diagrama de despliegue: https://lucid.app/lucidchart/c86ba2a3-2fda-4069-bc94-8c58f0902a82/edit?invitationId=inv_01edf342-f891-4943-9d26-5ca3efaaa9d7&page=0_0#
